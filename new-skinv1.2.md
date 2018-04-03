@@ -1,0 +1,10 @@
+
+![账号管理](http://www.weicot.com/wp-content/uploads/2018/04/new-page-account.png)
+![产品管理](http://www.weicot.com/wp-content/uploads/2018/04/product-iameg.png)
+![产品导出](http://www.weicot.com/wp-content/uploads/2018/04/product-iamge.png)
+![图库编辑](http://www.weicot.com/wp-content/uploads/2018/04/wc2m-tk.png)
+![设计器](http://www.weicot.com/wp-content/uploads/2018/04/desger-page.png)
+![侵权检测](http://www.weicot.com/wp-content/uploads/2018/04/DESGER-WARRY.png)
+![图库编辑](http://www.weicot.com/wp-content/uploads/2018/04/e-image.png)
+![导入订单](http://www.weicot.com/wp-content/uploads/2018/04/import-order.png)
+![工厂视图](http://www.weicot.com/wp-content/uploads/2018/04/factory-view.png)
