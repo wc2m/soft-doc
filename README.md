@@ -1,5 +1,6 @@
 ## WeiCot ERP  定制类平台 解决方案
 项目主页：https://www.weicot.com/
+![设计器](http://www.weicot.com/wp-content/uploads/2018/04/desger-full.png)
 # 捐赠
 您的捐赠是对WC2M 项目开发组最大的鼓励和支持。我们会坚持开发维护下去。 您的捐赠将被用于：
 
