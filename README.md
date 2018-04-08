@@ -1,5 +1,5 @@
 ## WeiCot ERP  定制类平台 解决方案
-项目主页：https://www.weicot.com/
+项目主页：http://www.weicot.com/
 ![设计器](http://www.weicot.com/wp-content/uploads/2018/04/desger-full.png)
 # 捐赠
 您的捐赠是对WC2M 项目开发组最大的鼓励和支持。我们会坚持开发维护下去。 您的捐赠将被用于：
@@ -7,16 +7,24 @@
   - 持续和深入地开发
   - 文档和社区的建设和维护
   
-[捐赠链接](https://www.weicot.com)
+[捐赠链接](http://www.weicot.com)
 
 
-####  主开发框架
+###  主开发框架
 ```
 主开发框架
 WeiCot Framework (WF)V 2.3
 WeiCot Swoole Framework  (WSF)V1.2
 WeiCot Design Components  (WDC)V1.6
 ```
+### 关于 Swoole
+#### Swoole：面向生产环境的 PHP 异步网络通信引擎
+使 PHP 开发人员可以编写高性能的异步并发 TCP、UDP、Unix Socket、HTTP，WebSocket 服务。
+Swoole 可以广泛应用于互联网、移动通信、企业软件、云计算、网络游戏、物联网（IOT）、车联网、智能家居等领域。 
+使用 PHP + Swoole 作为网络通信框架，可以使企业 IT 研发团队的效率大大提升，更加专注于开发创新产品。 
+[项目官网](https://www.swoole.com/)
+
+
 
 #### 架构思想
 > 高可用 高性能 模块化 可拆分 低消耗 分布式 反特征  
