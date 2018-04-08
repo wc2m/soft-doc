@@ -9,6 +9,10 @@
   
 [捐赠链接](http://www.weicot.com)
 
+### 关于WC2M
+WC2M 致力于通过技术改造传统制造业走向柔性化和智能化生产；实现以零库存帮助创业公司提高竞争能力，降低经营风险；
+企业利用WC2M的智能智造解决方案升级传统工厂，通过互联网渠道改变传统消费生产模式，使产品真正由先生产到消费，转变到先消费后生产。
+
 
 ###  主开发框架
 ```
@@ -17,13 +21,6 @@ WeiCot Framework (WF)V 2.3
 WeiCot Swoole Framework  (WSF)V1.2
 WeiCot Design Components  (WDC)V1.6
 ```
-#### 关于 Swoole
-#### Swoole：面向生产环境的 PHP 异步网络通信引擎
-使 PHP 开发人员可以编写高性能的异步并发 TCP、UDP、Unix Socket、HTTP，WebSocket 服务。
-Swoole 可以广泛应用于互联网、移动通信、企业软件、云计算、网络游戏、物联网（IOT）、车联网、智能家居等领域。 
-使用 PHP + Swoole 作为网络通信框架，可以使企业 IT 研发团队的效率大大提升，更加专注于开发创新产品。 
-[项目官网](https://www.swoole.com/)
-
 
 
 #### 架构思想
@@ -171,3 +168,12 @@ api  系统
 - 关联管理与反关联体系      完整版
 - 分布式采集系统  全功能  多服务器版
 - 侵权筛选系统  全功能  
+ 
+
+#### Swoole 扩展
+#### Swoole：面向生产环境的 PHP 异步网络通信引擎
+使 PHP 开发人员可以编写高性能的异步并发 TCP、UDP、Unix Socket、HTTP，WebSocket 服务。
+Swoole 可以广泛应用于互联网、移动通信、企业软件、云计算、网络游戏、物联网（IOT）、车联网、智能家居等领域。 
+使用 PHP + Swoole 作为网络通信框架，可以使企业 IT 研发团队的效率大大提升，更加专注于开发创新产品。 
+[项目官网](https://www.swoole.com/)
+
