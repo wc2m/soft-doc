@@ -1,5 +1,12 @@
 ## WeiCot ERP  定制类平台 解决方案
-项目主页：http://www.weicot.com/
+#### wc2m 产品信息导航
+[项目主页](http://www.weicot.com/) |
+[已经发布的版本](https://github.com/wc2m/soft-doc/blob/master/已经发布的c2m版本.md) |
+[部署方式](https://github.com/wc2m/soft-doc/blob/master/基础硬件需求.md) |
+[全系列解决方案](https://github.com/wc2m/soft-doc/blob/master/快速定制电商平台系统性解决方案.md) |
+[erp 更新](https://github.com/wc2m/soft-doc/blob/master/erp系统更新日志.md) |
+[wsf 更新](https://github.com/wc2m/soft-doc/blob/master/wsf服务端更新日志.md)
+
 ![设计器](http://www.weicot.com/wp-content/uploads/2018/04/desger-full.png)
 ## 捐赠
 您的捐赠是对WC2M 项目开发组最大的鼓励和支持。我们会坚持开发维护下去。 您的捐赠将被用于：
@@ -8,6 +15,8 @@
   - 文档和社区的建设和维护
   
 [捐赠链接](http://www.weicot.com)
+
+
 
 ### 关于WC2M
 WC2M 致力于通过技术改造传统制造业走向柔性化和智能化生产；实现以零库存帮助创业公司提高竞争能力，降低经营风险；
@@ -21,8 +30,6 @@ WeiCot Framework (WF)V 2.3
 WeiCot Swoole Framework  (WSF)V1.2
 WeiCot Design Components  (WDC)V1.6
 ```
-
-
 #### 架构思想
 > 高可用 高性能 模块化 可拆分 低消耗 分布式 反特征  
 
@@ -60,10 +67,6 @@ WeiCot C2M智能供应链平台 以及下一代系统 S2B智能供应链服务�
 
 ####  系统架构
 WEB 端  服务端   远程同步端   反代集群
-
-
-
-
 
 
 ### WEB 端部分功能概览
@@ -116,8 +119,8 @@ WEB 端  服务端   远程同步端   反代集群
 - 11.支持工厂视图 自动切分
 - 12.支持类3D 多面效自动补全
 - 13.支持低性能下快速高质量合成
-> 更多请看项目下面的更新日志
 
+> 更多请看项目下面的更新日志
 
 
 ### WED 端 与服务端 通讯支持
@@ -170,10 +173,14 @@ api  系统
 - 侵权筛选系统  全功能  
  
 
+
 #### Swoole 扩展
 #### Swoole：面向生产环境的 PHP 异步网络通信引擎
 使 PHP 开发人员可以编写高性能的异步并发 TCP、UDP、Unix Socket、HTTP，WebSocket 服务。
 Swoole 可以广泛应用于互联网、移动通信、企业软件、云计算、网络游戏、物联网（IOT）、车联网、智能家居等领域。 
 使用 PHP + Swoole 作为网络通信框架，可以使企业 IT 研发团队的效率大大提升，更加专注于开发创新产品。 
 [项目官网](https://www.swoole.com/)
+
+
+
 
