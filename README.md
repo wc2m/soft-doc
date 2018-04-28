@@ -2,7 +2,7 @@
 #### wc2m 产品信息导航
 [项目主页](http://www.weicot.com/) |
 [已经发布的版本](https://github.com/wc2m/soft-doc/blob/master/已经发布的c2m版本.md) |
-[部署方式](https://github.com/wc2m/soft-doc/blob/master/基础硬件需求.md) |
+[部署方式](https://github.com/wc2m/soft-doc/blob/master/基础硬件与部署方式.md) |
 [全系列解决方案](https://github.com/wc2m/soft-doc/blob/master/快速定制电商平台系统性解决方案.md) |
 [erp 更新](https://github.com/wc2m/soft-doc/blob/master/erp系统更新日志.md) |
 [wsf 更新](https://github.com/wc2m/soft-doc/blob/master/wsf服务端更新日志.md)
