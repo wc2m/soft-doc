@@ -17,8 +17,7 @@
   - 持续和深入地开发
   - 文档和社区的建设和维护
   
-[捐赠链接](http://www.weicot.com)
-
+[捐赠链接 支付宝 微信](http://www.weicot.com) [paypal](https://www.paypal.me/weicot)
 
 
 ### 关于WC2M
