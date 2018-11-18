@@ -8,7 +8,7 @@
 [erp 更新](https://github.com/wc2m/soft-doc/blob/master/20181028-%E7%B4%AF%E8%AE%A1%E6%9B%B4%E6%96%B0.md) |
 [wsf 更新](https://github.com/wc2m/soft-doc/blob/master/wsf服务端更新日志.md)|
 [授权以及许可](https://github.com/wc2m/soft-doc/blob/master/%E8%BD%AF%E4%BB%B6%E6%8E%88%E6%9D%83%E4%B8%8E%E5%8D%8F%E8%AE%AE.md)|
-[图片说明](https://github.com/wc2m/soft-doc/blob/master/%E5%8E%86%E5%8F%B2%E5%9B%BE%E5%83%8F.md)
+[图片](https://github.com/wc2m/soft-doc/blob/master/%E5%8E%86%E5%8F%B2%E5%9B%BE%E5%83%8F.md)
 ![首页](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/hompage.png)
 ![设计器](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/1542534250desg.jpg)
 
