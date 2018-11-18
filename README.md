@@ -8,7 +8,7 @@
 [wsf 更新](https://github.com/wc2m/soft-doc/blob/master/wsf服务端更新日志.md)
 
 ![首页](http://www.weicot.com/wp-content/uploads/2018/05/home-desger.png)
-![设计器](soft-doc/image/1542534250desg.jpg)
+![设计器](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/1542534250desg.jpg)
 
 
 ## 捐赠
