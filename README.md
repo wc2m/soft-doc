@@ -7,7 +7,7 @@
 [erp 更新](https://github.com/wc2m/soft-doc/blob/master/erp系统更新日志.md) |
 [wsf 更新](https://github.com/wc2m/soft-doc/blob/master/wsf服务端更新日志.md)
 
-![首页](http://www.weicot.com/wp-content/uploads/2018/05/home-desger.png)
+![首页](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/1542534783(1).png)
 ![设计器](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/1542534250desg.jpg)
 
 
