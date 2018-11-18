@@ -4,7 +4,7 @@
 [已经发布的版本](https://github.com/wc2m/soft-doc/blob/master/已经发布的c2m版本.md) |
 [部署方式](https://github.com/wc2m/soft-doc/blob/master/基础硬件需求.md) |
 [全系列解决方案](https://github.com/wc2m/soft-doc/blob/master/快速定制电商平台系统性解决方案.md) |
-[erp 更新](https://github.com/wc2m/soft-doc/blob/master/erp系统更新日志.md) |
+[erp 更新](https://github.com/wc2m/soft-doc/blob/master/20181028-%E7%B4%AF%E8%AE%A1%E6%9B%B4%E6%96%B0.md) |
 [wsf 更新](https://github.com/wc2m/soft-doc/blob/master/wsf服务端更新日志.md)
 
 ![首页](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/1542534783(1).png)
