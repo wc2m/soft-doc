@@ -7,7 +7,7 @@
 [erp 更新](https://github.com/wc2m/soft-doc/blob/master/20181028-%E7%B4%AF%E8%AE%A1%E6%9B%B4%E6%96%B0.md) |
 [wsf 更新](https://github.com/wc2m/soft-doc/blob/master/wsf服务端更新日志.md)
 
-![首页](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/1542534783(1).png)
+![首页](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/hompage.png)
 ![设计器](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/1542534250desg.jpg)
 
 
