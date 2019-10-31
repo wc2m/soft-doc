@@ -1,12 +1,12 @@
 ## 易定制智能供应链服务系统 (易定制) 解决方案
 #### 易定制 产品信息导航 最新版本 2.5.2 原:WeiCotERP(wc2m)定制类平台
 [项目主页](http://www.weicot.com/%e6%98%93%e5%ae%9a%e5%88%b6/) |
-[历史版本](https://github.com/wc2m/soft-doc/blob/master/20191028-update.md) |
-[操作手册](https://github.com/wc2m/soft-doc/blob/master/%E6%98%93%E5%AE%9A%E5%88%B6%E6%99%BA%E8%83%BD%E4%BE%9B%E5%BA%94%E9%93%BE%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9F(%E5%9F%BA%E7%A1%80%E7%89%88)%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.docx) |
-[部署方式](https://github.com/wc2m/soft-doc/blob/master/%E5%9F%BA%E7%A1%80%E7%A1%AC%E4%BB%B6%E4%B8%8E%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F.md) |
+[历史版本](/20191028-update.md) |
+[操作手册](/%E6%98%93%E5%AE%9A%E5%88%B6%E6%99%BA%E8%83%BD%E4%BE%9B%E5%BA%94%E9%93%BE%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9F(%E5%9F%BA%E7%A1%80%E7%89%88)%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.docx) |
+[部署方式](/%E5%9F%BA%E7%A1%80%E7%A1%AC%E4%BB%B6%E4%B8%8E%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F.md) |
 [全系列解决方案](https://github.com/wc2m/soft-doc/blob/master/快速定制电商平台系统性解决方案.md) |
 [授权以及许可](https://github.com/wc2m/soft-doc/blob/master/%E8%BD%AF%E4%BB%B6%E6%8E%88%E6%9D%83%E4%B8%8E%E5%8D%8F%E8%AE%AE.md)|
-[图片](https://github.com/wc2m/soft-doc/blob/master/%E5%8E%86%E5%8F%B2%E5%9B%BE%E5%83%8F.md)
+[图片](/%E5%8E%86%E5%8F%B2%E5%9B%BE%E5%83%8F.md)
 --------
 #### 易定制智能供应链服务系统  
 易定制智能供应链服务系统 是一种 C2M、S2B 智能供应链服务系统 ， 企业利用智能升级传统工厂，通过互联网渠道改变传统消费生产模式，配合技术改造传统制造业走向柔性化和智能化生产；实现以零库存帮助创业者提高竞争能力，降低经营风险。以柔性化生产和个性化创作帮助内容和流量客户提高变现能力，系统支持多个品类如服装、家居、电子周边、鞋帽、箱包等可以实现定制化生产 支持一件起定，批发价格帮助内容和流量客户提高变现能力 。本系统提供了高品质并且安全的行业解决方案 。
@@ -14,11 +14,11 @@
 亚马逊， wish，速卖通，zencart，magento，淘宝，lazada(测试)， Shopee(测试)，系统自带的B2C商城，等其他第三方电商类平台
 
 ###### 管理端首页
-![首页](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/mainpage201910.png)
+![首页](/image/mainpage201910.png)
 ###### 商户端首页
-![设计器](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/buspage201910.png)
+![设计器](/image/buspage201910.png)
 ###### 产品设计页面
-![设计器](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/newdesign201910.png)
+![设计器](/image/newdesign201910.png)
 
 ### 主要功能和系统([更多请看项目的操作手册](/易定制智能供应链服务系统(基础版)用户手册.docx))
 ------
