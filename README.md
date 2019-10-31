@@ -20,7 +20,7 @@
 ###### 产品设计页面
 ![设计器](https://raw.githubusercontent.com/wc2m/soft-doc/master/image/newdesign201910.png)
 
-### 主要功能和系统([更多请看项目的操作手册](https://github.com/wc2m/soft-doc/blob/master/20191028-update.md))
+### 主要功能和系统([更多请看项目的操作手册](/易定制智能供应链服务系统(基础版)用户手册.docx))
 ------
 ###### 一 业务系统
 - 1.工厂加盟系统
