@@ -14,7 +14,7 @@
 亚马逊， wish，速卖通，zencart，magento，淘宝，lazada(测试)， Shopee(测试)，系统自带的B2C商城，等其他第三方电商类平台
 
 ###### 管理端首页
-![首页](/image/mainpage201910.png)
+![首页](/image/new20191111.png)
 ###### 商户端首页
 ![设计器](/image/buspage201910.png)
 ###### 产品设计页面
